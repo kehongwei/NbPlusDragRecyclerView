@@ -4,5 +4,5 @@
 3.复杂的多布局基于阿里巴巴vLayout  
 
 # 截图
- ![image](https://note.youdao.com/yws/api/personal/file/WEB5290d18f1a84e38b228388da408fbacd?method=download&shareKey=67cc3c40dcbde57d05625363e616b70b)
+ ![image](https://raw.githubusercontent.com/kehongwei/NbPlusDragRecyclerView/master/20190924_161659.gif)
 
