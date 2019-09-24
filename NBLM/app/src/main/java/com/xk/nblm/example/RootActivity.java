@@ -17,19 +17,11 @@ public class RootActivity extends ListActivity {
 
     private String[] mTitles = new String[]{
             VLayoutActivity.class.getSimpleName(),
-            MainActivity.class.getSimpleName(),
-            TestActivity.class.getSimpleName(),
-            OnePlusNLayoutActivity.class.getSimpleName(),
-            DebugActivity.class.getSimpleName(),
             NBPlusLayoutActivity.class.getSimpleName(),
     };
 
     private Class[] mActivities = new Class[]{
             VLayoutActivity.class,
-            MainActivity.class,
-            TestActivity.class,
-            OnePlusNLayoutActivity.class,
-            DebugActivity.class,
             NBPlusLayoutActivity.class,
     };
 

@@ -16,25 +16,10 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".example.OnePlusNLayoutActivity">
-
-        </activity>
-
-        <activity android:name=".MainActivity">
-
-        </activity>
-
-        <activity android:name=".example.TestActivity">
-
-        </activity>
-
         <activity android:name=".example.VLayoutActivity">
 
         </activity>
 
-        <activity android:name=".example.DebugActivity">
-
-        </activity>
         <activity android:name=".example.NBPlusLayoutActivity">
 
         </activity>
